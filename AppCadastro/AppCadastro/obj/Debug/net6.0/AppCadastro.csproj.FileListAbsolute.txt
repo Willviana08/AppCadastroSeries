@@ -1,0 +1,15 @@
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.exe
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.deps.json
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.runtimeconfig.json
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.dll
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\bin\Debug\net6.0\ref\AppCadastro.dll
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.pdb
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.csproj.AssemblyReference.cache
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.AssemblyInfoInputs.cache
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.AssemblyInfo.cs
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.csproj.CoreCompileInputs.cache
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.dll
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\ref\AppCadastro.dll
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.pdb
+C:\Users\wilke\Desktop\Carreira\Bootcamps\Decola Tech 2a edição - 60hrs - 23-01\Desafios\DIO\AppCadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.genruntimeconfig.cache
